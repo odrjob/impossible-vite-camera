@@ -10,5 +10,13 @@
   },
   "devDependencies": {
     "vite": "^4.1.0"
+  },
+  "main": "main.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-webcam": "^7.0.1"
   }
 }
